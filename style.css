@@ -1,0 +1,32 @@
+body{
+    background-color: aliceblue;
+}
+.myWrapper{
+    width: 20rem;
+    text-align: center;
+}
+#selectColorBtn{
+    width: 10rem;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 4px;
+    background-color: #f4d625eb;
+    cursor: pointer;
+    margin-top: 0.4rem;
+}
+.color{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    font-size: 1.5rem;
+    align-items: center;
+}
+.colorGrid{
+    display: inline-block;
+    width: 2rem;
+    height: 1.5rem;
+    border-radius: 0.2rem;
+    margin: 0px 1rem;
+    padding: 0px 1rem;
+}

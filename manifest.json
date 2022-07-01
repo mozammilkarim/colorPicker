@@ -1,0 +1,21 @@
+{
+    "name":"color Picker",
+    "version":"0.0.1",
+    "description":"A color picker for whole system",
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"logo.png",
+        "default_title":"Color Picker"
+    },
+    "manifest_version":3,
+    "icons":{
+        "16":"logo.png",
+        "32":"logo.png",
+        "48":"logo.png"},
+    "permissions":[
+        "activeTab",
+        "scripting"
+    ]
+
+    
+}
